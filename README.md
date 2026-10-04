@@ -13,15 +13,15 @@ Currently learning and building hands-on projects with:\
 ## Projects
 
 <a href="https://github.com/JolieTrinh/Networking-labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=Networking-labs&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=Networking-labs&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/JolieTrinh/socket-programming-TCP-UDP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=socket-programming-TCP-UDP&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=socket-programming-TCP-UDP&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/JolieTrinh/linux-virtualization-lab"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=linux-virtualization-lab&theme=github_dark" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=linux-virtualization-lab&theme=tokyonight" /> 
 </a>
 
 ## 📫 Connect with me

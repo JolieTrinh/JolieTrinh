@@ -20,6 +20,9 @@ Currently learning and building hands-on projects with:\
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=socket-programming-TCP-UDP&theme=github_dark" />
 </a>
 
+<a href="https://github.com/JolieTrinh/linux-virtualization-lab"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=linux-virtualization-lab&theme=tokyonight" /> 
+</a>
 
 ## 📫 Connect with me
 

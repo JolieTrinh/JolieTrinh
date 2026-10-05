@@ -5,10 +5,10 @@ I'm a second-year Computer Engineering student at Tampere University, Finland
 I'm interested in **computer networking, cloud infrastructure, Linux, and network security**.
 
 Currently learning and building hands-on projects with:\
-🌐 **Networking & TCP/IP** \
-🔧 **Cisco / CCNA**\
-🐧 Practising with **Linux and Python**\
-☁️ Interested in **cloud & infrastructure**
+- **Networking & TCP/IP** \
+- **Cisco / CCNA**\
+- Practising with **Linux and Python**\
+- Interested in **cloud & infrastructure**
 
 ## Projects
 
@@ -24,7 +24,7 @@ Currently learning and building hands-on projects with:\
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolieTrinh&repo=linux-virtualization-lab&theme=tokyonight" /> 
 </a>
 
-## 📫 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jolie-nguyen-069b92390)
 [![GitHub](https://img.shields.io/badge/GitHub-JolieTrinh-black?logo=github\&logoColor=white)](https://github.com/JolieTrinh)

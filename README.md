@@ -4,10 +4,10 @@ I'm a second-year Computer Engineering student at Tampere University, Finland
 
 I'm interested in **computer networking, cloud infrastructure, Linux, and network security**.
 
-Currently learning and building hands-on projects with:\
-- **Networking & TCP/IP** \
-- **Cisco / CCNA**\
-- Practising with **Linux and Python**\
+Currently learning and building hands-on projects with:
+- **Networking & TCP/IP** 
+- **Cisco / CCNA**
+- Practising with **Linux and Python**
 - Interested in **cloud & infrastructure**
 
 ## Projects
